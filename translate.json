@@ -5,7 +5,7 @@
   ],
   "transalteData":{
     "OneAccount":{
-      "en":"Only one account per chain",
+      "en":"You can create just one account for each chain",
       "ir":"فقط یک حساب از هر بلاکچین می توانید داشته باشید"
     },
     "Welcome":{
@@ -17,7 +17,7 @@
       "ir":"خانه"
     },
     "Permium":{
-      "en":"This Name Is Not Available , Choose Another Name",
+      "en":"This name is not available, choose another name",
       "ir":"این نام در دسترس نیست ,  نام دیگری انتخاب کنید"
     },
     "Home":{
@@ -25,7 +25,7 @@
       "ir":"منو اصلی"
     },
     "StateNotFound":{
-      "en":"Command Not Found",
+      "en":"Command not found",
       "ir":"درخواست شما اشتباه است"
     },
     "ChangeLanguage":{
@@ -37,11 +37,11 @@
       "ir":"زبان"
     },
     "SelectLanguage":{
-      "en":"Select Language",
+      "en":"Select language",
       "ir":"زبان خود را نتخاب کنید"
     },
     "MainMenuText":{
-      "en":"Hamian Main Menu",
+      "en":"Hamian main menu",
       "ir":"منو اصلی همیان"
     },
     "WalletButton":{
@@ -49,35 +49,35 @@
       "ir":"کیف پول"
     },
     "LoginMsg":{
-      "en":"You Are Login,",
+      "en":"You are login",
       "ir":"شما وارد شدید"
     },
     "TaNotFound":{
-      "en":"Transaction Not Found",
+      "en":"Transaction not found",
       "ir":"تراکنش یافت نشد"
     },
     "WrongData":{
-      "en":"Wrong Data",
+      "en":"Wrong data",
       "ir":"اطلاعات اشتباه است"
     },
     "WalletNotFound":{
-      "en":"Wallet Not Found",
+      "en":"Wallet not found",
       "ir":"کیف پول پیدا نشد"
     },
     "TrfDataNotFound":{
-      "en":"Transfer Data Not Found",
+      "en":"Transfer data not found",
       "ir":"اطلاعات انتقال اعتبار پیدا نشد"
     },
     "TransactionFailed":{
-      "en":"Transaction Failed\r\n{{1}}",
+      "en":"Transaction failed\r\n{{1}}",
       "ir":"تراکنش انجام نشد\r\n{{1}}"
     },
     "WrongPass":{
-      "en":"password is wrong, try again",
+      "en":"Password is wrong, try again",
       "ir":"رمز عبور اشتباه است. لطفا مجددا تلاش نمایید"
     },
     "EnterPass":{
-      "en":"Enter Wallet Password",
+      "en":"Enter wallet password",
       "ir":"پسورد کیف پول را وارد کنید"
     },
     "Accept":{
@@ -85,15 +85,15 @@
       "ir":"تایید"
     },
     "SharePhone":{
-      "en":"Please Share Your Phone Number.",
+      "en":"Please share your phone number.",
       "ir":"لطفا شماره تلفن خود را به اشتراک بگذارید"
     },
     "CreateWalletBt":{
-      "en":"Create a New Wallet",
+      "en":"Create a new wallet",
       "ir":"ایجاد کیف پول جدید"
     },
     "ImportWalletBt":{
-      "en":"Use Own Wallet",
+      "en":"Use own wallet",
       "ir":"از کیف پول خودم استفاده می کنم"
     },
     "BackBt":{
@@ -105,15 +105,15 @@
       "ir":"ساخت کیف پول  {{1}} "
     },
     "AppNeed":{
-      "en":"Application {{1}} Need {{2}} Wallet.",				
+      "en":"Application {{1}} needs access to {{2}} wallet.",				
       "ir":"برنامه  {{1}} به کیف پول  {{2}} نیاز دارد"
     },
     "SubMobile":{
-      "en":"Your Phone Number Submitted",
+      "en":"Your phone number submitted",
       "ir":"شماره شما ثبت شد"
     },
     "AnotherName":{
-      "en":"Choose Another Name",
+      "en":"Choose another name",
       "ir":"نام دیگری انتخاب کنید"
     },
     "SetPass":{
@@ -121,68 +121,68 @@
       "ir":"برای اکانت خود رمز عبور انتخاب کنید ({{1}},{{2}}) : "
     },
     "SettingPass":{
-      "en":"Your account created, Please Set Password For Your Wallet",
+      "en":"Your account created, please set password for your wallet",
       "ir":"حساب کاربری ایجاد شد. رمز عبوری برای کیف پول خود انتخاب کنید"
     },
     "TakenName":{
-      "en":"This Name Was Taken, Choose Other Name",
+      "en":"This name is taken, choose another name",
       "ir":"نام درخواستی قبلا استفاده شده است. نام دیگری انتخاب کنید"
     },
     "ValidAcc":{
-      "en":"valid characters are :{{1}}",
+      "en":"Valid characters are :{{1}}",
       "ir":"کاراکتر قابل استفاده : {{1}}"
     },
     "AccLen":{
-      "en":"your name must less than {{1}} characters",
+      "en":"Your name must less than {{1}} characters",
       "ir":"نام انتخابی باید کمتر {{1}} حرف باشد"
     },
     "PassSet":{
-      "en":"Password Set",
+      "en":"Password has been set",
       "ir":"رمز عبور گذاشته شد"
     },
     "WrongActiveKey":{
-      "en":"Wrong Active Key",
+      "en":"Wrong active key",
       "ir":"کلید عمومی اشتباه است."
     },
     "AddPublicKey":{
-      "en":"Add Following Public Key To Your Account And Enter Account Name : \r\n{{1}}",
+      "en":"Add following public key to your account and enter account name : \r\n{{1}}",
       "ir":"کلید عمومی خود را به حساب خود اضافه کنید و سپس نام حساب  خود را وارد کنید :\r\n{{1}}"
     },
     "AccountName":{
-      "en":"Please Enter Account Name ( max {{1}} length)",
+      "en":"Please enter account name ( max {{1}} length)",
       "ir":"نام اکانت خود را وارد نمایید ( حداکثر حرف{{1}})"
     },
     "Wallets":{
-      "en":"your wallets are :",
-      "ir":"کیف پول های شما :"
+      "en":"Your wallets",
+      "ir":"کیف پول های شما"
     },
     "Balance":{
-      "en":"<b>accountName</b> : {{1}}\r\n<b>balance</b> : {{2}} {{3}}\r\n",
-      "ir":"<b>نام حساب</b> : {{1}}\r\n<b>موجودی</b> : {{2}} {{3}}\r\n"
+      "en":"<b>accountName</b>: {{1}}\r\n<b>balance</b>: \r\n{{2}} {{3}}\r\n",
+      "ir":"<b>نام حساب</b>: {{1}}\r\n<b>موجودی</b>: \r\n{{2}} {{3}}\r\n"
     },
     "WalletPage":{
-      "en":"Available Blockchains",
+      "en":"Available blockchains",
       "ir":"بلاکچین های موجود"
     },
     
     "ReqTransaction":{
-      "en":"application {{1}} request transaction : \r\n",
+      "en":"Application {{1}} request transaction : \r\n",
       "ir":"نرم افزار {{1}} در خواست تراکنش زیر را دارد : \r\n"
     },
     "AppNotFound":{
-      "en":"Application Not Found",
+      "en":"Application not found",
       "ir":"نرم افزار مورد نظر پیدا نشد"
     },
     "AppWant":{
-      "en":"Application {{1}} Want :",
+      "en":"Application {{1}} want:",
       "ir":"نرم افزار  {{1}}  از شما موراد زیر را می خواهد: "
     },
     "AccountNotFound":{
-      "en":"Account Not Found",
+      "en":"Account not found",
       "ir":"حساب کاربری یافت نشد"
     },
     "WantMobile":{
-      "en":"\r\n Your Phone number",
+      "en":"\r\n Your phone number",
       "ir":"\r\n شماره موبایل شما "
     },
     "NeedProfile":{
@@ -190,19 +190,19 @@
       "ir":"\r\n اطلاعات پروفایل شما(نام و نام خانوادگی)"
     },
     "WantWallet":{
-      "en":"\r\n Your {{1}} Wallet.",
+      "en":"\r\n Your {{1}} wallet.",
       "ir":"\r\n کیف پول  {{1}}  شما "
     },
     "SelectCurrency":{
-      "en":"Please Select Currency:",
+      "en":"Please select currency:",
       "ir":"لطفا ارز خود را مشخص کنید"
     },
     "Agree":{
-      "en":"\r\n if you are agree , click {{1}}",
+      "en":"\r\n If you are agree , click {{1}}",
       "ir":"\r\n اگر موافق هستید روی دکمه {{1}} کلیک کنید "
     },
     "CurrencyNotfound":{
-      "en":"CurrencyNotFound",
+      "en":"Currency not found",
       "ir":"ارز انتخابی یافت نشد"
     },
     "OK":{
@@ -214,31 +214,31 @@
       "ir":"انتقال"
     },
     "ShowTr":{
-      "en":"transaction : \r\n{{1}}",
-      "ir":"تراکنش : \r\n{{1}}"
+      "en":"Transaction: \r\n{{1}}",
+      "ir":"تراکنش: \r\n{{1}}"
     },
     "Amount":{
-      "en":"Enter Amount",
+      "en":"Enter amount",
       "ir":"میزان اعتبار برای انتقال"
     },
     "Memo":{
-      "en":"Enter Transfer Memo",
+      "en":"Enter transfer memo",
       "ir":"توضیحات(یادداشت) انتقال را وارد کنید "
     },
     "IncurrectAccount":{
-      "en":"Incorrect Transfer Account",
+      "en":"Invalid destination account",
       "ir":"حسابی که می خواهید انتقال اعتبار دهید اشتباه است "
     },
     "TransferAccount":{
-      "en":"Enter Transfer Account",
+      "en":"Enter destination account",
       "ir":"حسابی که می خواهید اعتبار انتقال دهید را وارد کنید"
     },
     "MemoLen":{
-      "en":"Max Length Is 256",
+      "en":"Max length is 256",
       "ir":"توضیحات نمی تواند بیشتر از ۲۵۶ کاراکتر باشد  "
     },
     "CurrectlyAmount":{
-      "en":"Enter Amount Currectly",
+      "en":"Incorrect quantity",
       "ir":"میزان اعتبار برای انتقال را به درستی وارد کنید"
     },
     "TransactionDone":{
