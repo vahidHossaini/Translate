@@ -149,7 +149,7 @@
       "ir":"کلید عمومی خود را به حساب خود اضافه کنید و سپس نام حساب  خود را وارد کنید :\r\n{{1}}"
     },
     "AccountName":{
-      "en":"Please enter account name ( max {{1}} length)",
+      "en":"Please enter account name ( max {{1}})",
       "ir":"نام اکانت خود را وارد نمایید ( حداکثر حرف{{1}})"
     },
     "Wallets":{
@@ -191,7 +191,7 @@
     },
     "WantWallet":{
       "en":"\r\n Your {{1}} wallet.",
-      "ir":"\r\n کیف پول  {{1}}  شما "
+      "ir":"\r\n کیف پول شما :\r\n {{1}}   "
     },
     "SelectCurrency":{
       "en":"Please select currency:",
@@ -204,6 +204,10 @@
     "CurrencyNotfound":{
       "en":"Currency not found",
       "ir":"ارز انتخابی یافت نشد"
+    },
+    "TransactionBlackList":{
+      "en":"This transaction is not allowed",
+      "ir":"این تراکنش مجاز نیست"
     },
     "OK":{
       "en":"OK",
