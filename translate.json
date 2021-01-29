@@ -61,8 +61,8 @@
       "ir":"اطلاعات اشتباه است"
     },
     "WalletNotFound":{
-      "en":"Wallet not found",
-      "ir":"کیف پول پیدا نشد"
+      "en":"Account not found",
+      "ir":"اکانت پیدا نشد"
     },
     "TrfDataNotFound":{
       "en":"Transfer data not found",
@@ -77,7 +77,7 @@
       "ir":"رمز عبور اشتباه است. لطفا مجددا تلاش نمایید"
     },
     "EnterPass":{
-      "en":"Enter wallet password",
+      "en":"Enter account password",
       "ir":"پسورد کیف پول را وارد کنید"
     },
     "Accept":{
@@ -89,24 +89,24 @@
       "ir":"لطفا شماره تلفن خود را به اشتراک بگذارید"
     },
     "CreateWalletBt":{
-      "en":"Create a new wallet",
-      "ir":"ایجاد کیف پول جدید"
+      "en":"Create a new account",
+      "ir":"ایجاد اکانت جدید"
     },
     "ImportWalletBt":{
-      "en":"Use own wallet",
-      "ir":"از کیف پول خودم استفاده می کنم"
+      "en":"Use own account",
+      "ir":"از اکانت خودم استفاده می کنم"
     },
     "BackBt":{
       "en":"Back",
       "ir":"بازگشت"
     },
     "CrWallet":{
-      "en":"Create {{1}} Wallet ",				
+      "en":"Create {{1}} account ",				
       "ir":"ساخت کیف پول  {{1}} "
     },
     "AppNeed":{
-      "en":"Application {{1}} needs access to {{2}} wallet.",				
-      "ir":"برنامه  {{1}} به کیف پول  {{2}} نیاز دارد"
+      "en":"Application {{1}} needs access to {{2}} account.",				
+      "ir":"برنامه  {{1}} به اکانت  {{2}} نیاز دارد"
     },
     "SubMobile":{
       "en":"Your phone number submitted",
@@ -121,7 +121,7 @@
       "ir":"برای اکانت خود رمز عبور انتخاب کنید ({{1}},{{2}}) : "
     },
     "SettingPass":{
-      "en":"Your account created, please set password for your wallet",
+      "en":"Your account created, please set password for your account",
       "ir":"حساب کاربری ایجاد شد. رمز عبوری برای کیف پول خود انتخاب کنید"
     },
     "TakenName":{
@@ -145,16 +145,16 @@
       "ir":"کلید عمومی اشتباه است."
     },
     "AddPublicKey":{
-      "en":"Add following public key to your account and enter account name : \r\n{{1}}",
+      "en":"You can add you existing account to hamian wallet\r\n1.Add following public key to your account\r\n2. enter your account name\r\nKey: \r\n**{{1}}**",
       "ir":"کلید عمومی خود را به حساب خود اضافه کنید و سپس نام حساب  خود را وارد کنید :\r\n{{1}}"
     },
     "AccountName":{
-      "en":"Please enter account name ( max {{1}})",
-      "ir":"نام اکانت خود را وارد نمایید ( حداکثر حرف{{1}})"
+      "en":"Please select a name for your account\r\n**Valid characters:**\r\n1. a..z\r\n2. 1..5",
+      "ir":"یک نام برای اکانت انتخاب کنید\r\nکاراکترهای مجاز:\r\n1. a تا z\r\n2. 1 تا 5"
     },
     "Wallets":{
-      "en":"Your wallets",
-      "ir":"کیف پول های شما"
+      "en":"Your accounts",
+      "ir":"اکانت های شما"
     },
     "Balance":{
       "en":"<b>accountName</b>: {{1}}\r\n<b>balance</b>: \r\n{{2}} {{3}}\r\n",
