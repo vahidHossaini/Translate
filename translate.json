@@ -149,8 +149,8 @@
       "ir":"کلید عمومی خود را به حساب خود اضافه کنید و سپس نام حساب  خود را وارد کنید :\r\n{{1}}"
     },
     "AccountName":{
-      "en":"Please select a name for your account\r\n**Valid characters:**\r\n1. a..z\r\n2. 1..5",
-      "ir":"یک نام برای اکانت انتخاب کنید\r\nکاراکترهای مجاز:\r\n1. a تا z\r\n2. 1 تا 5"
+      "en":"Please select a name for your account\r\n**Valid characters:**\r\n1. account name must have 12 character length\r\n2. a..z\r\n3. 1..5",
+      "ir":"یک نام برای اکانت انتخاب کنید\r\nکاراکترهای مجاز:\r\n1.نام اکانت باید دقیقا۱۲ کاراکتر باشید\r\n2. a تا z\r\n3. 1 تا 5"
     },
     "Wallets":{
       "en":"Your accounts",
