@@ -85,8 +85,8 @@
       "ir":"تایید"
     },
     "SharePhone":{
-      "en":"Please share your phone number.",
-      "ir":"لطفا شماره تلفن خود را به اشتراک بگذارید"
+      "en":"For security reasons and to prevent the creation of fake accounts, please send/share your number to use the Hamian Wallet.",
+      "ir":"به دلایل امنیتی و جلوگیری از ساخت اکانت های جعلی ، برای استفاده از ولت همیان شماره خود را ارسال نمایید"
     },
     "CreateWalletBt":{
       "en":"Create a new account",
@@ -145,7 +145,7 @@
       "ir":"کلید عمومی اشتباه است."
     },
     "AddPublicKey":{
-      "en":"You can add you existing account to hamian wallet\r\n1.Add following public key to your account\r\n2. enter your account name\r\nKey: \r\n**{{1}}**",
+      "en":"You can add you existing account to hamian wallet\r\n1.Add following public key to your account\r\nKey: \r\n{{1}}\r\n2. enter your account name",
       "ir":"کلید عمومی خود را به حساب خود اضافه کنید و سپس نام حساب  خود را وارد کنید :\r\n{{1}}"
     },
     "AccountName":{
