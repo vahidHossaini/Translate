@@ -104,12 +104,16 @@
       "en":"Create {{1}} account ",				
       "ir":"ساخت کیف پول  {{1}} "
     },
+    "blaclistNumber":{
+      "en":"Because of creating fake accounts, the following countries can not create free accounts! \r\n{{1}}",				
+      "ir":"به دلیل ساختن اکانت های غیر واقعی کشور های زیر نمی توانند اکانت رایگان ایجاد کنند\r\n{{1}}"
+    },
     "AppNeed":{
       "en":"Application {{1}} needs access to {{2}} account.",				
       "ir":"برنامه  {{1}} به اکانت  {{2}} نیاز دارد"
     },
     "SubMobile":{
-      "en":"Your phone number submitted",
+      "en":"Your phone number submitted.",
       "ir":"شماره شما ثبت شد"
     },
     "AnotherName":{
