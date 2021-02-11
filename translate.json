@@ -69,8 +69,8 @@
       "ir":"اطلاعات انتقال اعتبار پیدا نشد"
     },
     "TransactionFailed":{
-      "en":"Transaction failed\r\n{{1}}",
-      "ir":"تراکنش انجام نشد\r\n{{1}}"
+      "en":"🚫Transaction failed\r\n{{1}}",
+      "ir":"🚫تراکنش انجام نشد\r\n{{1}}"
     },
     "WrongPass":{
       "en":"Password is wrong, try again",
@@ -95,6 +95,10 @@
     "ImportWalletBt":{
       "en":"Use own account",
       "ir":"از اکانت خودم استفاده می کنم"
+    },
+    "whiteListButton":{
+      "en":"Accept and add to whitelist",
+      "ir":"اتوماتیک کردن تراکنش"
     },
     "BackBt":{
       "en":"Back",
@@ -250,8 +254,8 @@
       "ir":"میزان اعتبار برای انتقال را به درستی وارد کنید"
     },
     "TransactionDone":{
-      "en":"Transaction done!\r\nTransaction Id:\r\n<a href=\"{{1}}\">{{2}} </a>\r\n",
-      "ir":"تراکنش انجام شد!\r\nشناسه تراکنش:\r\n<a href=\"{{1}}\">{{2}} </a>\r\n"
+      "en":"✅Transaction done!\r\nTransaction Id:\r\n<a href=\"{{1}}\">{{2}} </a>\r\n",
+      "ir":"✅تراکنش انجام شد!\r\nشناسه تراکنش:\r\n<a href=\"{{1}}\">{{2}} </a>\r\n"
     }
   }
 }
