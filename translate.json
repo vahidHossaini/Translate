@@ -104,6 +104,14 @@
       "en":"Back",
       "ir":"بازگشت"
     },
+    "CancelBt":{
+      "en":"Cancel",
+      "ir":"لغو"
+    },
+    "CancelTransaction":{
+      "en":"The transaction was canceled",
+      "ir":"تراکنش لغو شد"
+    },
     "CrWallet":{
       "en":"Create {{1}} account ",				
       "ir":"ساخت کیف پول  {{1}} "
