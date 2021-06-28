@@ -1,209 +1,260 @@
 {
   "languages":[
     {"_id":"en","title":"English 🏴󠁧󠁢󠁥󠁮󠁧󠁿"}, 
-    {"_id":"ir","title":"فارسی 🇮🇷"} 
+    {"_id":"ir","title":"فارسی 🇮🇷"}, 
+    {"_id":"fr","title":"Français 🇮 🇫🇷"} 
   ],
   "transalteData":{
     "OneAccount":{
       "en":"You can create just one account for each chain",
-      "ir":"فقط یک حساب از هر بلاکچین می توانید داشته باشید"
+      "ir":"فقط یک حساب از هر بلاکچین می توانید داشته باشید",
+      "fr":"Vous pouvez créer un compte par chaîne"
     },
     "Welcome":{
       "en":"Welcome to Hamian ‌bot.\r\nHamian is a wallet on Telos blockchain and eosio based blockchains. You can use this bot very easily and without having any specialized knowledge.",
-      "ir":"به بات همیان خوش آمدید.\r\nهمیان یک کیف پول بر روی بلاکچین تلوس و بلاکچین های  مبتنی بر eosio  می باشد.شما میتواند بسیار آسان و بدون داشتن اطلاعات تخصصی از این بات استفاده کنید."
+      "ir":"به بات همیان خوش آمدید.\r\nهمیان یک کیف پول بر روی بلاکچین تلوس و بلاکچین های  مبتنی بر eosio  می باشد.شما میتواند بسیار آسان و بدون داشتن اطلاعات تخصصی از این بات استفاده کنید.",
+      "fr":"Bienvenue sur le robot Hamian.\r\nHamian est un porte-monnaie pour la chaîne de blocs Telos et les autres chaînes de blocs construites avec eosio."
     },
     "MainMenu":{
       "en":"Home",
-      "ir":"خانه"
+      "ir":"خانه",
+      "fr":"Page d'accueil"
     },
     "Permium":{
       "en":"This name is not available, choose another name",
-      "ir":"این نام در دسترس نیست ,  نام دیگری انتخاب کنید"
+      "ir":"این نام در دسترس نیست ,  نام دیگری انتخاب کنید",
+      "fr":"Ce nom n'est malheureusement plus disponible, veuillez en choisir un autre"
     },
     "Home":{
       "en":"Main Menu",
-      "ir":"منو اصلی"
+      "ir":"منو اصلی",
+      "fr":"Menu principal"
     },
     "StateNotFound":{
       "en":"Command not found",
-      "ir":"درخواست شما اشتباه است"
+      "ir":"درخواست شما اشتباه است",
+      "fr":"Commande non trouvée"
     },
     "ChangeLanguage":{
       "en":"Language changed",
-      "ir":"زبان تغییر کرد"
+      "ir":"زبان تغییر کرد",
+      "fr":"Langue modifiée"
     },
     "Language":{
       "en":"Language",
-      "ir":"زبان"
+      "ir":"زبان",
+      "fr":"Langue"
     },
     "SelectLanguage":{
       "en":"Select language",
-      "ir":"زبان خود را نتخاب کنید"
+      "ir":"زبان خود را نتخاب کنید",
+      "fr":"Sélection de la langue"
     },
     "MainMenuText":{
       "en":"Hamian main menu",
-      "ir":"منو اصلی همیان"
+      "ir":"منو اصلی همیان",
+      "fr":"Menu principal de Hamian"
     },
     "WalletButton":{
       "en":"Wallets",
-      "ir":"کیف پول"
+      "ir":"کیف پول",
+      "fr":"Porte-monnaies"
     },
     "LoginMsg":{
       "en":"You are login",
-      "ir":"شما وارد شدید"
+      "ir":"شما وارد شدید",
+      "fr":"Vous êtes connecté"
     },
     "TaNotFound":{
       "en":"Transaction not found",
-      "ir":"تراکنش یافت نشد"
+      "ir":"تراکنش یافت نشد",
+      "fr":"Transaction pas trouvée"
     },
     "WrongData":{
       "en":"Wrong data",
-      "ir":"اطلاعات اشتباه است"
+      "ir":"اطلاعات اشتباه است",
+      "fr":"Données erronées"
     },
     "WalletNotFound":{
       "en":"Account not found",
-      "ir":"اکانت پیدا نشد"
+      "ir":"اکانت پیدا نشد",
+      "fr":"Compte pas trouvé"
     },
     "TrfDataNotFound":{
       "en":"Transfer data not found",
-      "ir":"اطلاعات انتقال اعتبار پیدا نشد"
+      "ir":"اطلاعات انتقال اعتبار پیدا نشد",
+      "fr":"Données de transfert non trouvées"
     },
     "TransactionFailed":{
       "en":"🚫Transaction failed\r\n{{1}}",
-      "ir":"🚫تراکنش انجام نشد\r\n{{1}}"
+      "ir":"🚫تراکنش انجام نشد\r\n{{1}}",
+      "fr":"🚫La transaction a échoué\r\n{{1}}"
     },
     "WrongPass":{
       "en":"Password is wrong, try again",
-      "ir":"رمز عبور اشتباه است. لطفا مجددا تلاش نمایید"
+      "ir":"رمز عبور اشتباه است. لطفا مجددا تلاش نمایید",
+      "fr":"Le mot de passe est incorrect, veuillez essayer à nouveau"
     },
     "EnterPass":{
       "en":"Enter account password",
-      "ir":"پسورد کیف پول را وارد کنید"
+      "ir":"پسورد کیف پول را وارد کنید",
+      "fr":"Veuillez entrer le mot de passe de votre compte"
     },
     "Accept":{
       "en":"Accept",
-      "ir":"تایید"
+      "ir":"تایید",
+      "fr":"Accepter"
     },
     "SharePhone":{
       "en":"For security reasons and to prevent the creation of fake accounts, please send/share your number to use the Hamian Wallet.",
-      "ir":"به دلایل امنیتی و جلوگیری از ساخت اکانت های جعلی ، برای استفاده از ولت همیان شماره خود را ارسال نمایید"
+      "ir":"به دلایل امنیتی و جلوگیری از ساخت اکانت های جعلی ، برای استفاده از ولت همیان شماره خود را ارسال نمایید",
+      "fr":"Pour des raisons de sécurité et afin d'éviter la création de faux comptes, veuillez nous enoyer/partager le numéro du téléphone avec lequel vous allez utiliser le porte-monnaie Hamian."
     },
     "CreateWalletBt":{
       "en":"Create a new account",
-      "ir":"ایجاد اکانت جدید"
+      "ir":"ایجاد اکانت جدید",
+      "fr":"Créer un nouveau compte"
     },
     "ImportWalletBt":{
       "en":"Use own account",
-      "ir":"از اکانت خودم استفاده می کنم"
+      "ir":"از اکانت خودم استفاده می کنم",
+      "fr":"Utiliser un compte déjà existant"
     },
     "whiteListButton":{
       "en":"Accept and add to whitelist",
-      "ir":"اتوماتیک کردن تراکنش"
+      "ir":"اتوماتیک کردن تراکنش",
+      "fr":"Accepter et ajouter à la liste blanche"
     },
     "BackBt":{
       "en":"Back",
-      "ir":"بازگشت"
+      "ir":"بازگشت",
+      "fr":"Retour"
     },
     "CancelBt":{
       "en":"Cancel",
-      "ir":"لغو"
+      "ir":"لغو",
+      "fr":"Annuler"
     },
     "CancelTransaction":{
       "en":"The transaction was canceled",
-      "ir":"تراکنش لغو شد"
+      "ir":"تراکنش لغو شد",
+      "fr":"La transaction a été annulée"
     },
     "CrWallet":{
       "en":"Create {{1}} account ",				
-      "ir":"ساخت کیف پول  {{1}} "
+      "ir":"ساخت کیف پول  {{1}} ",
+      "fr":"Créer  {{1}} un compte "
     },
     "blaclistNumber":{
       "en":"Because of creating fake accounts, the following countries can not create free accounts! \r\n{{1}}",				
-      "ir":"به دلیل ساختن اکانت های غیر واقعی کشور های زیر نمی توانند اکانت رایگان ایجاد کنند\r\n{{1}}"
+      "ir":"به دلیل ساختن اکانت های غیر واقعی کشور های زیر نمی توانند اکانت رایگان ایجاد کنند\r\n{{1}}",
+      "fr":"Suite à la création de nombreux faux comptes, les pays suivants ne sont pas autorisés à créer de comptes gratuits! \r\n{{1}}"
     },
     "AppNeed":{
       "en":"Application {{1}} needs access to {{2}} account.",				
-      "ir":"برنامه  {{1}} به اکانت  {{2}} نیاز دارد"
+      "ir":"برنامه  {{1}} به اکانت  {{2}} نیاز دارد",
+      "fr":"L'application {{1}} a besoin d'accéder à votre {{2}} compte."
     },
     "SubMobile":{
-      "en":"Your phone number submitted.",
-      "ir":"شماره شما ثبت شد"
+      "en":"Your phone number has been submitted.",
+      "ir":"شماره شما ثبت شد",
+      "fr":"Votre numéro de téléphone a été transmis."
     },
     "AnotherName":{
       "en":"Choose another name",
-      "ir":"نام دیگری انتخاب کنید"
+      "ir":"نام دیگری انتخاب کنید",
+      "fr":"Veuillez choisir un autre nom"
     },
     "SetPass":{
       "en":"set password for your account({{1}},{{2}}) : ",
-      "ir":"برای اکانت خود رمز عبور انتخاب کنید ({{1}},{{2}}) : "
+      "ir":"برای اکانت خود رمز عبور انتخاب کنید ({{1}},{{2}}) : ",
+      "fr":"Veuillez définir un mot de passe pour votre compte({{1}},{{2}}) : "
     },
     "SettingPass":{
-      "en":"Your account created, please set password for your account",
-      "ir":"حساب کاربری ایجاد شد. رمز عبوری برای کیف پول خود انتخاب کنید"
+      "en":"Your account has been created, please set a password for your account",
+      "ir":"حساب کاربری ایجاد شد. رمز عبوری برای کیف پول خود انتخاب کنید",
+      "fr":"Votre compte a bien été créé, veuillez définir un mot de passe pour le protéger"
     },
     "TakenName":{
       "en":"This name is taken, choose another name",
-      "ir":"نام درخواستی قبلا استفاده شده است. نام دیگری انتخاب کنید"
+      "ir":"نام درخواستی قبلا استفاده شده است. نام دیگری انتخاب کنید",
+      "fr":"Ce nom est déjà pris, veuillez en choisir un autre"
     },
     "ValidAcc":{
       "en":"Valid characters are :{{1}}",
-      "ir":"کاراکتر قابل استفاده : {{1}}"
+      "ir":"کاراکتر قابل استفاده : {{1}}",
+      "fr":"Les caractères acceptés sont :{{1}}"
     },
     "AccLen":{
-      "en":"Your name must less than {{1}} characters",
-      "ir":"نام انتخابی باید کمتر {{1}} حرف باشد"
+      "en":"Your name must be less than {{1}} characters",
+      "ir":"نام انتخابی باید کمتر {{1}} حرف باشد",
+      "fr":"Votre nom doit comporter moins de {{1}} caractères"
     },
     "PassSet":{
       "en":"Password has been set",
-      "ir":"رمز عبور گذاشته شد"
+      "ir":"رمز عبور گذاشته شد",
+      "fr":"Le mot de passe a été défini"
     },
     "WrongActiveKey":{
       "en":"Wrong active key",
-      "ir":"کلید عمومی اشتباه است."
+      "ir":"کلید عمومی اشتباه است.",
+      "fr":"Mauvaise clé active"
     },
     "AddPublicKey":{
       "en":"You can add you existing account to hamian wallet\r\n1.Add following public key to your account\r\nKey: \r\n{{1}}\r\n2. enter your account name",
-      "ir":"کلید عمومی خود را به حساب خود اضافه کنید و سپس نام حساب  خود را وارد کنید :\r\n{{1}}"
+      "ir":"کلید عمومی خود را به حساب خود اضافه کنید و سپس نام حساب  خود را وارد کنید :\r\n{{1}}",
+      "fr":"Vous pouvez importer vos porte-monnaies existants dans le porte-monnaie Hamian\r\n1.Ajoutez la clé publique suivante à votre compte\r\nKey: \r\n{{1}}\r\n2. Veuillez entrer le nom de votre compte"
     },
     "AccountName":{
       "en":"Please select a name for your account\r\n**Valid characters:**\r\n1. a..z\r\n2. 1..5",
-      "ir":"یک نام برای اکانت انتخاب کنید\r\nکاراکترهای مجاز:\r\n1. a تا z\r\n2. 1 تا 5"
+      "ir":"یک نام برای اکانت انتخاب کنید\r\nکاراکترهای مجاز:\r\n1. a تا z\r\n2. 1 تا 5",
+      "fr":"Veuillez choisir un nom pour votre compte\r\n**Les caractères acceptés sont:**\r\n1. a..z\r\n2. 1..5"
     },
     "Wallets":{
       "en":"Your accounts",
-      "ir":"اکانت های شما"
+      "ir":"اکانت های شما",
+      "fr":"Vos comptes"
     },
     "Balance":{
       "en":"<b>accountName</b>: {{1}}\r\n<b>balance</b>: \r\n{{2}} {{3}}\r\n",
-      "ir":"<b>نام حساب</b>: {{1}}\r\n<b>موجودی</b>: \r\n{{2}} {{3}}\r\n"
+      "ir":"<b>نام حساب</b>: {{1}}\r\n<b>موجودی</b>: \r\n{{2}} {{3}}\r\n",
+      "fr":"<b>nom du compte</b>: {{1}}\r\n<b>balance</b>: \r\n{{2}} {{3}}\r\n"
     },
     "WalletPage":{
       "en":"Available blockchains",
-      "ir":"بلاکچین های موجود"
+      "ir":"بلاکچین های موجود",
+      "fr":"Chaînes de blocs disponibles"
     },
     
     "ReqTransaction":{
       "en":"Application {{1}} request transaction : \r\n",
-      "ir":"نرم افزار {{1}} در خواست تراکنش زیر را دارد : \r\n"
+      "ir":"نرم افزار {{1}} در خواست تراکنش زیر را دارد : \r\n",
+      "fr":"Application {{1}} Demande de transaction : \r\n"
     },
     "AppNotFound":{
       "en":"Application not found",
-      "ir":"نرم افزار مورد نظر پیدا نشد"
+      "ir":"نرم افزار مورد نظر پیدا نشد",
+      "fr":"Application pas trouvée"
     },
     "AppWant":{
       "en":"Application {{1}} want:",
-      "ir":"نرم افزار  {{1}}  از شما موراد زیر را می خواهد: "
+      "ir":"نرم افزار  {{1}}  از شما موراد زیر را می خواهد: ",
+      "fr":"L'application {{1}} veut:"
     },
     "AccountNotFound":{
       "en":"Account not found",
-      "ir":"حساب کاربری یافت نشد"
+      "ir":"حساب کاربری یافت نشد",
+      "fr":"Compte pas trouvé"
     },
     "WantMobile":{
       "en":"\r\n Your phone number",
-      "ir":"\r\n شماره موبایل شما "
+      "ir":"\r\n شماره موبایل شما ",
+      "fr":"\r\n Votre numéro de téléphone"
     },
     "NeedProfile":{
       "en":"\r\n Your Profile(firstName,lastName)",					
-      "ir":"\r\n اطلاعات پروفایل شما(نام و نام خانوادگی)"
+      "ir":"\r\n اطلاعات پروفایل شما(نام و نام خانوادگی)",
+      "fr":"\r\n Votre profil(Prénom,Nom)"
     },
     "WantWallet":{
       "en":"\r\n Your {{1}} wallet.",
@@ -211,59 +262,153 @@
     },
     "SelectCurrency":{
       "en":"Please select currency:",
-      "ir":"لطفا ارز خود را مشخص کنید"
+      "ir":"لطفا ارز خود را مشخص کنید",
+      "fr":"Veuillez sélectionner une devise:"
     },
     "Agree":{
       "en":"\r\n If you are agree , click {{1}}",
-      "ir":"\r\n اگر موافق هستید روی دکمه {{1}} کلیک کنید "
+      "ir":"\r\n اگر موافق هستید روی دکمه {{1}} کلیک کنید ",
+      "fr":"\r\n Si vous êtes d'accord , Cliquez ici {{1}}"
     },
     "CurrencyNotfound":{
       "en":"Currency not found",
-      "ir":"ارز انتخابی یافت نشد"
+      "ir":"ارز انتخابی یافت نشد",
+      "fr":"Monnaie non trouvée"
     },
     "TransactionBlackList":{
       "en":"This transaction is not allowed",
-      "ir":"این تراکنش مجاز نیست"
+      "ir":"این تراکنش مجاز نیست",
+      "fr":"Cette transaction n'est pas autorisée"
     },
     "OK":{
       "en":"OK",
-      "ir":"تایید"
+      "ir":"تایید",
+      "fr":"OK"
     },
     "Transfer":{
       "en":"Transfer",
-      "ir":"انتقال"
+      "ir":"انتقال",
+      "fr":"Transférer"
     },
     "ShowTr":{
       "en":"Transaction: \r\n{{1}}",
-      "ir":"تراکنش: \r\n{{1}}"
+      "ir":"تراکنش: \r\n{{1}}",
+      "fr":"Transaction: \r\n{{1}}"
     },
     "Amount":{
       "en":"Enter amount",
-      "ir":"میزان اعتبار برای انتقال"
+      "ir":"میزان اعتبار برای انتقال",
+      "fr":"Entrez le montant"
     },
     "Memo":{
       "en":"Enter transfer memo",
-      "ir":"توضیحات(یادداشت) انتقال را وارد کنید "
+      "ir":"توضیحات(یادداشت) انتقال را وارد کنید ",
+      "fr":"Rédiger un mémo pour le transfert"
     },
     "IncurrectAccount":{
       "en":"Invalid destination account",
-      "ir":"حسابی که می خواهید انتقال اعتبار دهید اشتباه است "
+      "ir":"حسابی که می خواهید انتقال اعتبار دهید اشتباه است ",
+      "fr":"Compte destinataire invalide"
     },
     "TransferAccount":{
       "en":"Enter destination account",
-      "ir":"حسابی که می خواهید اعتبار انتقال دهید را وارد کنید"
+      "ir":"حسابی که می خواهید اعتبار انتقال دهید را وارد کنید",
+      "fr":"Veuillez entrer le compte du destinataire"
     },
     "MemoLen":{
       "en":"Max length is 256",
-      "ir":"توضیحات نمی تواند بیشتر از ۲۵۶ کاراکتر باشد  "
+      "ir":"توضیحات نمی تواند بیشتر از ۲۵۶ کاراکتر باشد  ",
+      "fr":"La longueur maximale est de 256"
     },
     "CurrectlyAmount":{
       "en":"Incorrect quantity",
-      "ir":"میزان اعتبار برای انتقال را به درستی وارد کنید"
+      "ir":"میزان اعتبار برای انتقال را به درستی وارد کنید",
+      "fr":"Quantité incorrecte"
     },
     "TransactionDone":{
       "en":"✅Transaction done!\r\nTransaction Id:\r\n<a href=\"{{1}}\">{{2}} </a>\r\n",
-      "ir":"✅تراکنش انجام شد!\r\nشناسه تراکنش:\r\n<a href=\"{{1}}\">{{2}} </a>\r\n"
+      "ir":"✅تراکنش انجام شد!\r\nشناسه تراکنش:\r\n<a href=\"{{1}}\">{{2}} </a>\r\n",
+      "fr":"✅Transaction effectuée!\r\nTransaction ID:\r\n<a href=\"{{1}}\">{{2}} </a>\r\n"
+    },
+    "buyRamTelosBt":{
+      "en":"Buy Ram By telos",
+      "ir":"خرید رم بر اساس تلوس",
+      "fr":""
+    },
+    "buyRamByteBt":{
+      "en":"Buy Ram By Byte",
+      "ir":"خرید رم بر اساس بایت",
+      "fr":""
+    },
+    "BuyRamTelosText":{
+      "en":"Enter telos amount ",
+      "ir":"مقدار تلوس را وارد کنید",
+      "fr":""
+    },
+    "BuyRamByteText":{
+      "en":"Enter Byte size ",
+      "ir":"اندازه بایت را وارد کنید",
+      "fr":""
+    },
+    "WrongValue":{
+      "en":"value is wrong ,try again ",
+      "ir":"مقدار اشتباه است ، دوباره تلاش کنید",
+      "fr":""
+    },
+    "CancelTransfer":{
+      "en":"The transfer was canceled",
+      "ir":"انتقال لغو شد",
+      "fr":""
+    },
+    "BalanceOnly":{
+      "en":"balance is: {{1}} ",
+      "ir":"موجودی شما : {{1}}",
+      "fr":""
+    },
+    "EmptyBt":{
+      "en":"‌Be empty",
+      "ir":"خالی باشد",
+      "fr":""
+    }, 
+    "AuthButton":{
+      "en":"Authentication App",
+      "ir":"احراز هویت",
+      "fr":""
+    }, 
+    "EnterPassword":{
+      "en":"Enter new password",
+      "ir":"رمز عبور جدید خود را وارد کنید",
+      "fr":""
+    }, 
+    "AppPage":{
+      "en":"Chose application",
+      "ir":"برنامه مورد نظر را انتخاب کنید",
+      "fr":""
+    }, 
+    "AppNotExist":{
+      "en":"Application Not Exist",
+      "ir":"برنامه مورد نظر پیدا نشد",
+      "fr":""
+    }, 
+    "SetAccPass":{
+      "en":"password has been set",
+      "ir":"رمز عبر شما قرار داده شد",
+      "fr":""
+    }, 
+    "CreateOrImportAccount":{
+      "en":"Account is not exist on {{1}} , Please create or import your account . ",
+      "ir":"اکانت روی {{1}} وجود ندارد . لطفا یک اکانت ایجاد کنید یا اکانت خود را وارد کنید",
+      "fr":""
+    }, 
+    "AccLen12":{
+      "en":"Your name must be 12 characters long",
+      "ir":"نام انتخابی باید 12 حرف باشد",
+      "fr":""
+    },
+    "StopPage":{
+      "en":"Updating",
+      "ir":"در حال بروز رسانی",
+      "fr":""
     }
   }
 }
